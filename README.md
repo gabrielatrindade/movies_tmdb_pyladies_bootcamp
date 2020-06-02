@@ -1,7 +1,7 @@
 # movies_tmdb_pyladies_bootcamp
 
 ## TMDB 5000 Movie Dataset
-Subset from the real dataset. Some columns was droped.
+Subset from the real dataset. Some columns were removed.
 [https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 - Background
@@ -17,8 +17,8 @@ We (Kaggle) have removed the original version of this dataset per a [DMCA](http
     2. **tmdb_5000_movies.csv**: Movie credits data.
     columns: **budget**, **genres(2)**, **id**, **original_language**, **popularity**, **production_companies**, **production_countries**, **release_date**, **revenue**, **runtime**, **spoken_languages(2)**, **vote_average**, **vote_count**
 
-    (1) It's a subset of the real dataset. Some columns were droped.
-    (2) it needs cleaning
+    (1) It's a subset of the real dataset. Some columns were removed.
+    (2) It needs cleaning
 
 - Questions:
   * Which movies have the highest vote_average?
