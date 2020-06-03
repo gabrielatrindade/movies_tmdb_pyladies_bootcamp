@@ -24,6 +24,10 @@ We (Kaggle) have removed the original version of this dataset per a [DMCA](http
   * Which movies have the highest vote_average?
   * Which movies people voted the most?
   * Which movie have the most budget?
-  * Which production_companies have the most movies?
   * Which movie has the most popularity?
+  * Which production_companies have the most movies?
+  * Which production_companies have the highest budget?
+  * Which production_companies have the highest revenue?
+  * Which genres have the best popularity?
+  * Which spoken_languages have the highest popularity?
   * Which movies had the most budget and which cast started in it?
