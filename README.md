@@ -4,8 +4,8 @@
 ## Introduction
 We decided to examine the **TMDB 5000 Movie Dataset** for the final project to analyse it through the different production companies, bugdet, revenue, popularity and so on. <br>
 
-This data set was provided by Kaggle through the link: <br>
-[https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) <br>
+This data set was provided by **Kaggle** through the link: <br>
+[Metadata on ~5,000 movies from TMDb](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) <br>
 
 There you can find almost 5000 movies observations with the following files and columns: <br>
 - Files and them columns(1): <br>
@@ -40,5 +40,5 @@ There you can find almost 5000 movies observations with the following files and 
 - Data Cleaning: Handle columns in json format
 
 ## Team
-- @gabrielatrindade
-- @kayen88
+- [@gabrielatrindade](https://github.com/gabrielatrindade)
+- [@kayen88](https://github.com/kayen88)
