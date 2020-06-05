@@ -20,14 +20,14 @@ There you can find almost 5000 movies observations with the following files and 
     dataset.
 
 ## Questions
-* Is there some correlation between: budget, popularity, revenue, vote_average and vote_count?
-* Which movies have the highest vote_average? Is the vote_count significant for these movies?
-* Which movies people voted the most? Does them vote_average good? Is there some correlation?
-* Which movie have the most budget? Which are them production_companies? What was the revenue generated?
-* Is there some correlation between the budget and profit? Is profit related to any variable?
-* Which movie has the most popularity? Which are them spoken_languages? And the genres?
-* Which production_companies have the most movies? And the highest revenue?
-* ~~Which movies had the most budget and which cast started in it?~~
+* 01 - Is there some correlation between: budget, popularity, revenue, vote_average and vote_count?
+* 02 - Which movies have the highest vote_average? Is the vote_count significant for these movies?
+* 03 - Which movies people voted the most? Are them vote_average good? Is there some correlation?
+* 04 - Which movie have the most budget? Which are them production_companies? What was the revenue generated?
+* 05 - Is there some correlation between the budget and profit? Is profit related to any variable?
+* 06 - Which movie has the most popularity? Which are them spoken_languages? And the genres?
+* 07 - Which production_companies have the most movies? And the highest revenue?
+* ~~08 - Which movies had the most budget and which cast started in it?~~
   
 ## Libraries used
     pandas
